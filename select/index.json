@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春彼岸",
+  "base_artist": "wata",
+  "createdAt": "2026-02-15T09:28:25.361879Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春彼岸",
+      "artist": "wata",
+      "has_synced": false,
+      "path": "select/pl_01_春彼岸_wata.txt"
+    }
+  ]
+}
